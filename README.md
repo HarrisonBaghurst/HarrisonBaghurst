@@ -8,7 +8,7 @@
 
 </br>
 
-<h2>🧰 My Skills</h2>
+<h2>My Skills 🧰</h2>
 
 <h3><i>Languages</i></h3>
 
@@ -40,13 +40,13 @@
 
 </br>
 
-<h2>📫 Get In Touch</h2>
+<h2>Get In Touch 📫</h2>
 
 The best way to reach me is through my contact form found in the top right of [my website](https://harrisonbaghurst.com).
 I'm always open to discussing project opportunities, potential collaborations and your queries.
 
 </br>
 
-<h2>🌟 Featured Projects</h2>
+<h2>Featured Projects 🌟</h2>
 
-![./dating-app-preview.png](https://github.com/HarrisonBaghurst/HarrisonBaghurst/blob/main/dating-app-preview)
+[![./dating-app-preview.png](https://github.com/HarrisonBaghurst/HarrisonBaghurst/blob/main/dating-app-preview)](https://github.com/HarrisonBaghurst/dating-app/)
