@@ -47,7 +47,7 @@ I'm always open to discussing project opportunities, potential collaborations an
 
 </br>
 
-<h2>Featured Projects 🌟</h2>
+<h2>Featured Project 🌟</h2>
 
 More projects including closed-source projects can be found on my [portflio website](https://harrisonbaghurst.com). 
 
