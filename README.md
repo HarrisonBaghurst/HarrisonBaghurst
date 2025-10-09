@@ -49,4 +49,6 @@ I'm always open to discussing project opportunities, potential collaborations an
 
 <h2>Featured Projects 🌟</h2>
 
+More projects including closed-source projects can be found on my [portflio website](https://harrisonbaghurst.com). 
+
 [![./dating-app-preview.png](https://github.com/HarrisonBaghurst/HarrisonBaghurst/blob/main/dating-app-preview)](https://github.com/HarrisonBaghurst/dating-app/)
