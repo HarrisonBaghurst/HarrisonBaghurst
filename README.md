@@ -39,3 +39,7 @@
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
 
 </br>
+
+<h2>Featured Projects</h2>
+
+![./dating-app-preview.png](https://github.com/HarrisonBaghurst/HarrisonBaghurst/blob/main/dating-app-preview)
